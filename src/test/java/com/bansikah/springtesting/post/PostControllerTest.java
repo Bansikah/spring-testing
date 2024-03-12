@@ -12,7 +12,5 @@ public class PostControllerTest {
     @Container
     @ServiceConnection
     static PostgreSQLContainer<?> postgres = new PostgreSQLContainer<>("postgres:latest");
-
-
 }
 
