@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "userId": 10,
+    "title": "This is a Public Record Post Title",
+    "body": "This is the content of the public record post. It can include any relevant information.",
+    "version": 1
+  },
+  {
+    "id": 2,
+    "userId": 15,
+    "title": "Another Public Record Post",
+    "body": "Here's another example of a public record post with some content.",
+    "version": 1
+  }
+]
